@@ -61,6 +61,8 @@ The data used for this analysis includes variables such as _id (unique identifie
 - Dependencies: pandas, matplotlib, seaborn, numpy, scipy, statsmodels (for time series analysis).
 
 # Result and Visualizations
+![image](https://github.com/feven2965/Police-Annual-Statistical-Report/assets/163018035/863d5bc1-e379-4c0b-868d-fb7d32bec530)
+
 ![image](https://github.com/feven2965/Police-Annual-Statistical-Repport/assets/163018035/c58ac111-8eb5-4b54-9f29-76ff1a6d2656)
 
 # Conclusion
