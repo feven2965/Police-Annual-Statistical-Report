@@ -60,6 +60,9 @@ The data used for this analysis includes variables such as _id (unique identifie
 - "Project.ipynb": Python script containing the code for data analysis.
 - Dependencies: pandas, matplotlib, seaborn, numpy, scipy, statsmodels (for time series analysis).
 
+# Result and Visualizations
+![image](https://github.com/feven2965/Police-Annual-Statistical-Repport/assets/163018035/c58ac111-8eb5-4b54-9f29-76ff1a6d2656)
+
 # Conclusion
 
 The analysis provided valuable insights into the police data, including trends, distributions, and relationships between variables. Further analysis or modeling can be performed based on the findings to derive actionable insights.
