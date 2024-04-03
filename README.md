@@ -65,6 +65,28 @@ The data used for this analysis includes variables such as _id (unique identifie
 
 ![image](https://github.com/feven2965/Police-Annual-Statistical-Repport/assets/163018035/c58ac111-8eb5-4b54-9f29-76ff1a6d2656)
 
-# Conclusion
 
-The analysis provided valuable insights into the police data, including trends, distributions, and relationships between variables. Further analysis or modeling can be performed based on the findings to derive actionable insights.
+## Analysis Summary
+
+Data Cleaning and Preprocessing
+The initial steps involved cleaning the dataset by removing duplicates and handling missing values. This ensures that the analysis is based on accurate and complete information, thereby enhancing the reliability of the findings.
+
+Outlier Detection
+By calculating the Z-score for the 'EVENT_COUNT' column, outliers were identified and analyzed. This step is crucial for understanding extreme cases or anomalies in the data, which could have a significant impact on the overall analysis and interpretations.
+
+Distribution Analysis
+The analysis included exploring the distribution of various features, such as 'EVENT_YEAR', 'DIVISION_ORIGINAL', 'DIVISION_FINAL', 'HOOD_158', and 'NEIGHBOURHOOD_158'. The bar charts and histograms provided insights into the frequency and distribution patterns of these variables, helping to identify trends and areas of interest.
+
+Neighborhood Analysis
+The data was analyzed based on neighborhoods, with calculations for the mean, median, and standard deviation of 'EVENT_COUNT' for each neighborhood. This analysis highlights differences in event occurrences across neighborhoods, allowing for targeted approaches in addressing specific community needs.
+
+Time Series Analysis
+Utilizing time series analysis, including seasonal decomposition and forecasting with ARIMA models, revealed patterns and trends over time in the 'EVENT_COUNT'. This aspect of the analysis is vital for predicting future events and planning resource allocation effectively.
+
+Correlation Analysis
+The correlation matrix provided insights into the relationships between numerical variables. Understanding these correlations is essential for identifying factors that may influence event counts, contributing to a deeper understanding of the underlying dynamics.
+
+## Conclusion
+The comprehensive analysis of the dataset reveals significant insights into event occurrences, distributions across divisions and neighborhoods, and temporal trends. The preprocessing steps ensured a clean and reliable dataset, enabling accurate analysis. The outlier detection highlighted anomalies for further investigation. Distribution and neighborhood analyses shed light on spatial variations in event counts, offering a basis for targeted interventions. Time series analysis, including forecasting, offers a predictive perspective, essential for planning and resource allocation. Finally, the correlation analysis elucidates the interrelations among variables, suggesting areas for further exploration. Together, these findings provide a solid foundation for data-driven decision-making and strategic planning in addressing the needs highlighted by the event count data.
+
+
