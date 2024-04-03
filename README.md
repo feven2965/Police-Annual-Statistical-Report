@@ -33,6 +33,7 @@ Plot time series of event count. Resample data to daily frequency and analyze tr
 # Data Description
 
 The data used for this analysis includes variables such as _id (unique identifier), EVENT_YEAR (year of the event), DIVISION_ORIGINAL (original division), DIVISION_FINAL (final division), HOOD_158 (hood information), NEIGHBOURHOOD_158 (neighborhood information), and EVENT_COUNT (count of events).
+Link to the original data: https://open.toronto.ca/dataset/police-annual-statistical-report-calls-for-service-attended/
 
 # Overall Analysis Steps
 
